@@ -1,1 +1,3 @@
 # solution-finder-for-obstacle-maze
+
+Developed in python using the concepts of intelligent systems, this game accepts a maze in text form from the user and finds the most optimal path from the start to the goal based on the dice movements. To fine the optimal path, A star search using three different heuristics. To perform the moves, the dice is required to be rolled and validity of moves are determined based on the value on the top of dice after it is rolled.
